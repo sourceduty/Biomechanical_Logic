@@ -38,6 +38,8 @@ Lastly, in the medical field, biomechanical logic could revolutionize the unders
 [Autonomous Biology](https://github.com/sourceduty/Autonomous_Biology)
 <br>
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Neurorobotic Simulator](https://github.com/sourceduty/Neurorobotic_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
